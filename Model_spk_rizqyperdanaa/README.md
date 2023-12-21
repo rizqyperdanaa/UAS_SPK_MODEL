@@ -1,8 +1,8 @@
 
 # spk_model
 
-Nama : Muhammad Rizqy Perdana
-NIM  : 201011400890
+Nama : Muhammad Rizqy Perdana <br>
+NIM  : 201011400890 <br>
 Kelas: 07TPLP13
 
 ## Virtualenv
