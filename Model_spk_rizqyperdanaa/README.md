@@ -2,8 +2,8 @@
 # spk_model
 
 Nama : Muhammad Rizqy Perdana <br>
-NIM  : 201011400890 <br>
-Kelas: 07TPLP13
+NIM   : 201011400890 <br>
+Kelas : 07TPLP13
 
 ## Virtualenv
 install, create, activate virtual environment using virtualenv
