@@ -41,5 +41,5 @@ run this query in your db client
 	 ('Realme GT Neo 3T','Lumayan Terkenal',789376,'5000 mAh','5,5 jutaan',6.62);
   
 ## Hasil
-<img src='screenshot/SAW dan WP.png' alt='Screenshot Hasil'/>
-<img src='screenshot/database.png' alt='Screenshot Hasil'/>
+<img src='screenshot/SAW dan WP.PNG' alt='Screenshot Hasil'/>
+<img src='screenshot/database.PNG' alt='Screenshot Hasil'/>
