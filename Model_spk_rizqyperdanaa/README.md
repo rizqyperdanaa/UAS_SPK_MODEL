@@ -1,10 +1,11 @@
 
 # spk_model
 
-  
+Nama : Muhammad Rizqy Perdana
+NIM  : 201011400890
+Kelas: 07TPLP13
 
 ## Virtualenv
-
 install, create, activate virtual environment using virtualenv
 
 https://medium.com/analytics-vidhya/virtual-environment-6ad5d9b6af59
@@ -12,22 +13,16 @@ https://medium.com/analytics-vidhya/virtual-environment-6ad5d9b6af59
 ## Install depedencies
 run `pip install -r requirements.txt`
 
-  
-
 ## create postgresql database
 
 create database in your locals
 
 modify settings.py 
-  
 
 ## create table
 
 run:
-
     python main.py create_table
-
-  
 
 ## create data
 
@@ -44,5 +39,7 @@ run this query in your db client
 	 ('Redmi Note 12 Pro 5G','Sangat Terkenal',538000,'5000 mAh','4,3 jutaan',6.67),
 	 ('Oppo A78 5G','Cukup Terkenal',324000,'5000 mAh','4 jutaan',6.56),
 	 ('Realme GT Neo 3T','Lumayan Terkenal',789376,'5000 mAh','5,5 jutaan',6.62);
-
-
+  
+## Hasil
+<img src='screenshot/SAW dan WP.png' alt='Screenshot Hasil'/>
+<img src='screenshot/database.png' alt='Screenshot Hasil'/>
